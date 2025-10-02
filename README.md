@@ -112,5 +112,5 @@ For further inquiries or support, please contact:
    [MN982@live.mdx.ac.uk]
   
 ================================================================================
-© [2025] [Middlesex university] - All Rights Reserved
+
 ================================================================================
