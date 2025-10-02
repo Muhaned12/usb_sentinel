@@ -1,0 +1,5 @@
+pywin32
+pandas
+requests
+pyinstaller
+wmi
